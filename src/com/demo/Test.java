@@ -8,7 +8,7 @@ import org.joda.time.format.DateTimeFormatter;
 
 public class Test {
 	/**
-	 * 
+	 * 宋志军
 	 * @param args
 	 */
 	public static void main(String[] args) {

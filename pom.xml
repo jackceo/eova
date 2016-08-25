@@ -157,7 +157,7 @@
         <testOutputDirectory>${basedir}/src/main/webapp/WEB-INF/classes</testOutputDirectory>
 
         <plugins>
-            <!-- compiler插件, 设定JDK版本  -->
+            <!-- compiler插件,设定JDK版本  -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>

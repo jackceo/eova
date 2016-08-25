@@ -1,2 +1,4 @@
 /webapp/WEB-INF/classes
 *.JSCompress
+/开发者认证.txt
+/README.md

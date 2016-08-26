@@ -21,7 +21,7 @@ $(document).ready(function(){
         var url = '/widget/comboJson?exp=select id ID,name CN from area where lv = 2 and pid = ' + newValue;
         $city.eovacombo({url : url}).reload();
     }});
-    // 市级联区县
+    // 市级联区县 
     $city.eovacombo({onChange: function (oldValue, newValue) {
         $region.eovacombo().setValue("");
 
